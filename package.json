@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/wieni/eslint-config-drupack#readme",
   "dependencies": {
-    "eslint": "^6.8.0",
+    "babel-eslint": "^10.1.0",
     "eslint-config-airbnb": "^18.1.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-import": "^2.20.2",
